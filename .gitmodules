@@ -1,0 +1,3 @@
+[submodule "GuidedProjectList"]
+	path = GuidedProjectList
+	url = git@github.com:c4arl0s/GuidedProjectList.git
