@@ -1,5 +1,11 @@
 # [go back to overview](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+ git submodule update --remote --merge
+```
+
 # [Guided Project: List (ToDoListApp)](https://github.com/c4arl0s/GuidedProjectList#guided-project-list-todolistapp---content-1)
 
 Display, add, delete and save a list of tasks.
